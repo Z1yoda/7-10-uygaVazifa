@@ -1,0 +1,54 @@
+{
+     "cars": [
+       {
+         "brand": "Mercedes-Benz",
+         "model": "Citan",
+         "carbody": "van",
+         "color": "red",
+         "price": "10000$",
+         "year": 2010,
+         "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZVKQJmHlcKHHj8MmX6vmjUi4w-q_bQ4PsnOrn06_OKw&s",
+         "id": "ahj1"
+       },
+       {
+         "brand": "Lexus",
+         "model": "GX",
+         "carbody": "4WD",
+         "color": "black",
+         "price": "50000$",
+         "year": 2020,
+         "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/2018_Lexus_LX_570_%28facelift%29%2C_front_3.24.23.jpg/1200px-2018_Lexus_LX_570_%28facelift%29%2C_front_3.24.23.jpg",
+         "id": "wsk2"
+       },
+       {
+         "brand": "Toyota",
+         "model": "RAV4",
+         "carbody": "crossover",
+         "color": "gray",
+         "price": "15000$",
+         "year": 2015,
+         "photo": "https://upload.wikimedia.org/wikipedia/commons/5/53/Hyundai_Tucson_%28NX4%2C_SWB%29_PHEV_1X7A1858.jpg",
+         "id": "lfm3"
+       },
+       {
+         "brand": "Hyundai",
+         "model": "Grand i10 Nios",
+         "carbody": "hatchback",
+         "color": "yellow",
+         "price": "30000$",
+         "year": 2018,
+         "photo": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.whichcar.com.au%2Fcar-reviews%2F2019-hyundai-elantra-go-automatic-quick-review&psig=AOvVaw1GSHEdEyfZTZyGRmxSviP8&ust=1711903992618000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPDZ6b65nIUDFQAAAAAdAAAAABAR",
+         "id": "kig9"
+       },
+       {
+         "brand": "Honda",
+         "model": "Civic",
+         "carbody": "sedan",
+         "color": "blue",
+         "price": "25000$",
+         "year": 2010,
+         "photo": "https://images.prismic.io/carwow/f0e50451-f4fa-422c-9966-1d51a88234b1_Honda_Civic_EHev_White_087.png?fit=clip&q=60&w=750&cs=tinysrgb&auto=format",
+         "id": "iok8"
+       }
+     ]
+   }
